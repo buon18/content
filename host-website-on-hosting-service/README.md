@@ -139,7 +139,7 @@ Vercel CLI :version
 ![](https://imgur.com/9tVzS7r.png)
 ![](https://imgur.com/vfb5UcD.png)
 
-> បន្ទាប់មក add បញ្ចូល ដែលមានសភាពបែបនេះ ORG*ID គឺមានតម្លៃចាប់ផ្តើមដោយ `team*`និង PROJECT_ID គឺមានតម្លៃចាប់ផ្តើមដោយ`prj\_`
+> បន្ទាប់មក add បញ្ចូល ដែលមានសភាពបែបនេះ ORG_ID គឺមានតម្លៃចាប់ផ្តើមដោយ `team_` និង PROJECT_ID គឺមានតម្លៃចាប់ផ្តើមដោយ `prj_`
 
 បន្ទាប់ពីការ setup project រួចគឺយើងត្រូវការ vercel token ដោយចូលទៅកាន់ [vercel](https://vercel.com)
 
